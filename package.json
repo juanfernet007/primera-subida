@@ -1,0 +1,14 @@
+{
+  "name": "proyecton1",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Fernando Arango juanfernet007@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
